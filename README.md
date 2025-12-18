@@ -44,3 +44,13 @@ O **Biblioteca Central** é um sistema web completo para gerenciamento e reserva
 ---
 
 ## 📁 Estrutura do Projeto
+
+biblioteca-central/
+├── README.md
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── img/
+    └── amt2.png
